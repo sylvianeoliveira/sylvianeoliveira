@@ -1,4 +1,9 @@
 ## Olá! Bem vindo(a) ao meu perfil!
+
+Graduanda em Ciência da Computação na Universidade Federal do Rio de Janeiro, atuamente sou estagiária em Desenvolvimento de Software na Globo onde atuo na área do Backstage que é responsável pelo CMS da plataforma que suporta os portais do Grupo Globo e pelo desenvolvimento dos sistemas de aplicativos construídos na Globo.com.
+
+Sou apaixonada por tecnologia, resolver problemas e ajudar pessoas. Encontrei na computação a oportunidade de ajudar pessoas utilizando a tecnologia para resolução de problemas. Desde então, tenho buscado me aperfeiçoar na área sempre aprendendo coisas novas e ajudando outras pessoas a alcançarem seus objetivos.
+
  <div>
   <a href="https://github.com/sylvianeoliveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sylvianeoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
